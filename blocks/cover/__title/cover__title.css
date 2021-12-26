@@ -5,6 +5,7 @@
   text-align: center;
   margin: 0 0 32px;
   z-index: 1;
+  white-space: pre-line;
 }
 
 @media screen and (max-width: 767px) {
