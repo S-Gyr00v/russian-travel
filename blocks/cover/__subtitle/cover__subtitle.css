@@ -1,0 +1,16 @@
+.cover__subtitle {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  z-index: 1;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+  .footer {
+    flex-direction: column;
+    align-items: flex-start;
+    min-height: 310px;
+  }
+}

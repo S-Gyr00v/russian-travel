@@ -1,0 +1,23 @@
+.intro {
+  max-width: 984px;
+  margin: 92px auto 0;
+  color: #ffffff;
+
+  display: flex;
+  flex-direction: column;
+  justify-items: start;
+}
+
+
+@media screen and (max-width: 1023px) {
+  .intro {
+    margin: 88px auto 88px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .intro {
+    margin: 64px auto 64px  ;
+
+  }
+}

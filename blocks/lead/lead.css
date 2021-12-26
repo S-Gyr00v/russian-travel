@@ -1,0 +1,29 @@
+.lead {
+  max-width: 984px;
+
+  padding: 56px 148px 0 148px;
+  margin: 0 auto;
+
+  color: #ffffff;
+}
+
+@media screen and (max-width: 1279px) {
+  .lead {
+    padding: 48px 48px 0 48px;
+    min-height: 962px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead {
+    padding: 48px 0 0 0;
+    min-height: 862px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead {
+    padding: 48px 0 0 0;
+    min-height: 406px;
+  }
+}
