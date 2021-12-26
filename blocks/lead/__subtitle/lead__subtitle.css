@@ -3,16 +3,17 @@
   font-size: 30px;
   line-height: 36px;
   text-align: center;
-
-  margin: 0;
+  margin: 0 auto 0 auto;
   padding: 0;
   list-style-type: none;
   white-space: pre;
 }
 
+
 @media screen and (max-width: 767px) {
   .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
+
   }
 }
