@@ -28,4 +28,5 @@
 * Использовать JavaScript
 
 **Ссылка на сайт:**
+https://s-gyr00v.github.io/russian-travel/index.html
 
