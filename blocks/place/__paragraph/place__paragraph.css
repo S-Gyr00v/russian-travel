@@ -4,15 +4,24 @@
   font-size: 18px;
   line-height: 163%;
   margin: 0;
+  margin-bottom: 26px;
+}
+.place__paragraph:last-of-type {
+  margin-bottom: 0;
+}
 
-  min-width: 456px;
+@media screen and (max-width: 1279px) {
+  .place__paragraph {
+    margin-bottom: 25px;
+  }
 }
 
 @media screen and (max-width: 1023px) {
   .place__paragraph {
     font-size: 16px;
     line-height: 163%;
-    min-width: 352px;
+
+    margin-bottom: 27px;
   }
 }
 
@@ -20,6 +29,9 @@
   .place__paragraph {
     font-size: 16px;
     line-height: 163%;
-    margin: 0 16px 0 16px;
+
+    max-width: 288px;
+    margin-bottom: 25px;
+    margin: 0 auto 25px auto;
   }
 }
