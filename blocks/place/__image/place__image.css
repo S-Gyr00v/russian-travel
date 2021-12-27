@@ -17,5 +17,8 @@
 @media screen and (max-width: 767px) {
   .place__image {
     max-height: 320px;
+    grid-column: 1/2;
+    grid-row: 1/2;
+
   }
 }

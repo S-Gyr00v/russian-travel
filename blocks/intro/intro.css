@@ -8,9 +8,18 @@
   justify-items: start;
 }
 
+
+@media screen and (max-width: 1279px) {
+  .intro {
+
+    padding: 0 48px 0 48px;
+  }
+}
+
 @media screen and (max-width: 1023px) {
   .intro {
     margin: 88px auto 88px;
+    padding: 0 24px 0 24px;
   }
 }
 
