@@ -1,13 +1,13 @@
 .place__paragraphs {
   align-self: start;
   justify-self: start;
-
+  margin: 0;
+  padding: 0;
 }
 
 
 @media screen and (max-width: 767px) {
   .place__paragraphs {
-    align-self: center;
     justify-self: center;
   }
 }
