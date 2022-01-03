@@ -2,20 +2,25 @@
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
-  line-height: 28px;
+  line-height: 117%;
   text-align: right;
   text-decoration-line: none;
   color: #ffffff;
+  margin: 0;
+  margin-right: 18px;
+
+}
+
+.header__content:hover {
+  opacity: 0.8;
+}
+
+.header__content:last-child {
   margin-right: 0;
 }
 
-.header__content:first-of-type {
-  text-decoration-line: underline;
-  margin-right: 18px;
-}
-
 @media screen and (max-width: 767px) {
-  .header__box_ru {
+  .header__content {
     font-size: 18px;
     line-height: 20px;
   }
