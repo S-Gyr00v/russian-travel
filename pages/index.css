@@ -51,7 +51,7 @@
 @import url("../blocks/place/__paragraphs/place__paragraphs.css");
 
 @import url("../blocks/intro/__span-accent/intro__span-accent.css");
-@import url("../blocks/header/__content/__content_active/header__content_active.css");
+@import url("../blocks/header/__content/_active/header__content_active.css");
 @import url("../blocks/header/__box/header__box.css");
 @import url("../blocks/intro/__lines/intro__lines.css");
 
