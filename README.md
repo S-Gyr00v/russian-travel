@@ -10,13 +10,13 @@
 
 **Стек**
 
-*HTML
-*CSS
+* HTML
+* CSS
 
 **Реализация**
-*Grid Layout
-*Flexbox-вёрстка
-*Медиазапросы
+* Grid Layout
+* Flexbox-вёрстка
+* Медиазапросы
 
 **Figma**
 
